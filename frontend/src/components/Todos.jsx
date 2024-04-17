@@ -1,10 +1,3 @@
-/* todos = [
-   {
-    title: "go to gym",
-    description: "go to gym",
-   } 
-   ]
-*/
 export function Todos({ todos }) {
   return (
     <div>
